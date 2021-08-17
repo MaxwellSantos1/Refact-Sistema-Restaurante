@@ -1,0 +1,53 @@
+Kind,Name,CountClassCoupled
+Public Class,"proj.unipe.autorizador.AutorizadorInterceptor",3
+Public Class,"proj.unipe.bd.JPAUtil",0
+Public Class,"proj.unipe.controllers.CardapioController",13
+Public Class,"proj.unipe.controllers.CategoriaController",9
+Public Class,"proj.unipe.controllers.ClienteController",10
+Public Class,"proj.unipe.controllers.DeliveryController",19
+Public Class,"proj.unipe.controllers.FuncionarioController",9
+Public Class,"proj.unipe.controllers.LayoutController",1
+Public Class,"proj.unipe.controllers.LoginController",3
+Public Class,"proj.unipe.controllers.MesaController",11
+Public Class,"proj.unipe.controllers.PedidoController",18
+Public Class,"proj.unipe.controllers.ReservaController",12
+Public Generic Class,"proj.unipe.daos.AbstractDAO",4
+TypeVariable,"proj.unipe.daos.AbstractDAO.T",0
+Public Class,"proj.unipe.daos.CardapioDAO",5
+Public Class,"proj.unipe.daos.CategoriaDAO",4
+Public Class,"proj.unipe.daos.ClienteDAO",4
+Public Class,"proj.unipe.daos.DeliveryDAO",2
+Public Class,"proj.unipe.daos.FuncionarioDAO",4
+Public Class,"proj.unipe.daos.GerenteDAO",2
+Public Class,"proj.unipe.daos.ItemCardapioDAO",5
+Public Class,"proj.unipe.daos.MesaDAO",3
+Public Class,"proj.unipe.daos.PedidoDAO",5
+Public Class,"proj.unipe.daos.ReservaDAO",8
+Public Class,"proj.unipe.daos.TradicionalDAO",2
+Public Class,"proj.unipe.daos.UsuarioDAO",4
+Public Abstract Class,"proj.unipe.entities.AbstractEntity",2
+Public Class,"proj.unipe.entities.Cardapio",4
+Public Class,"proj.unipe.entities.Categoria",3
+Public Class,"proj.unipe.entities.Cliente",2
+Public Class,"proj.unipe.entities.Delivery",2
+Public Class,"proj.unipe.entities.Endereco",1
+Public Class,"proj.unipe.entities.Funcionario",3
+Public Class,"proj.unipe.entities.Gerente",0
+Public Class,"proj.unipe.entities.ItemCardapio",5
+Public Class,"proj.unipe.entities.Mesa",4
+Public Class,"proj.unipe.entities.Pedido",7
+Public Class,"proj.unipe.entities.Reserva",5
+Public Class,"proj.unipe.entities.Tradicional",1
+Public Class,"proj.unipe.entities.Usuario",2
+Public Class,"proj.unipe.services.CardapioService",7
+Public Class,"proj.unipe.services.CategoriaService",7
+Public Class,"proj.unipe.services.ClienteService",7
+Public Class,"proj.unipe.services.DeliveryService",5
+Public Class,"proj.unipe.services.FuncionarioService",7
+Public Class,"proj.unipe.services.GerenteService",5
+Public Class,"proj.unipe.services.ItemCardapioService",5
+Public Class,"proj.unipe.services.MesaService",5
+Public Class,"proj.unipe.services.PedidoService",5
+Public Class,"proj.unipe.services.ReservaService",8
+Public Class,"proj.unipe.services.TradicionalService",5
+Public Class,"proj.unipe.services.UsuarioService",5

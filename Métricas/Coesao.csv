@@ -1,0 +1,53 @@
+Kind,Name,PercentLackOfCohesion
+Public Class,"proj.unipe.autorizador.AutorizadorInterceptor",0
+Public Class,"proj.unipe.bd.JPAUtil",0
+Public Class,"proj.unipe.controllers.CardapioController",60
+Public Class,"proj.unipe.controllers.CategoriaController",22
+Public Class,"proj.unipe.controllers.ClienteController",25
+Public Class,"proj.unipe.controllers.DeliveryController",80
+Public Class,"proj.unipe.controllers.FuncionarioController",16
+Public Class,"proj.unipe.controllers.LayoutController",0
+Public Class,"proj.unipe.controllers.LoginController",66
+Public Class,"proj.unipe.controllers.MesaController",28
+Public Class,"proj.unipe.controllers.PedidoController",78
+Public Class,"proj.unipe.controllers.ReservaController",57
+Public Generic Class,"proj.unipe.daos.AbstractDAO",25
+TypeVariable,"proj.unipe.daos.AbstractDAO.T",0
+Public Class,"proj.unipe.daos.CardapioDAO",100
+Public Class,"proj.unipe.daos.CategoriaDAO",83
+Public Class,"proj.unipe.daos.ClienteDAO",100
+Public Class,"proj.unipe.daos.DeliveryDAO",100
+Public Class,"proj.unipe.daos.FuncionarioDAO",75
+Public Class,"proj.unipe.daos.GerenteDAO",100
+Public Class,"proj.unipe.daos.ItemCardapioDAO",100
+Public Class,"proj.unipe.daos.MesaDAO",66
+Public Class,"proj.unipe.daos.PedidoDAO",90
+Public Class,"proj.unipe.daos.ReservaDAO",83
+Public Class,"proj.unipe.daos.TradicionalDAO",100
+Public Class,"proj.unipe.daos.UsuarioDAO",100
+Public Abstract Class,"proj.unipe.entities.AbstractEntity",0
+Public Class,"proj.unipe.entities.Cardapio",83
+Public Class,"proj.unipe.entities.Categoria",75
+Public Class,"proj.unipe.entities.Cliente",50
+Public Class,"proj.unipe.entities.Delivery",50
+Public Class,"proj.unipe.entities.Endereco",80
+Public Class,"proj.unipe.entities.Funcionario",80
+Public Class,"proj.unipe.entities.Gerente",0
+Public Class,"proj.unipe.entities.ItemCardapio",81
+Public Class,"proj.unipe.entities.Mesa",83
+Public Class,"proj.unipe.entities.Pedido",83
+Public Class,"proj.unipe.entities.Reserva",85
+Public Class,"proj.unipe.entities.Tradicional",0
+Public Class,"proj.unipe.entities.Usuario",83
+Public Class,"proj.unipe.services.CardapioService",50
+Public Class,"proj.unipe.services.CategoriaService",0
+Public Class,"proj.unipe.services.ClienteService",0
+Public Class,"proj.unipe.services.DeliveryService",0
+Public Class,"proj.unipe.services.FuncionarioService",0
+Public Class,"proj.unipe.services.GerenteService",0
+Public Class,"proj.unipe.services.ItemCardapioService",0
+Public Class,"proj.unipe.services.MesaService",0
+Public Class,"proj.unipe.services.PedidoService",0
+Public Class,"proj.unipe.services.ReservaService",66
+Public Class,"proj.unipe.services.TradicionalService",0
+Public Class,"proj.unipe.services.UsuarioService",0
